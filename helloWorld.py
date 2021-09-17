@@ -1,4 +1,4 @@
-x = 6
+x = 7
 y = 8
 #waarvoor is die :
 if x < y:
